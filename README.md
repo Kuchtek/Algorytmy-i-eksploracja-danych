@@ -14,4 +14,6 @@ Każda funkcja skryptu odpowiada za ukończenie jednego zadania.
   • ilość wartości null\
   • wartość maksymalna\
   • wartość minimalna\
-  • wartość najczęściej występująca w zbiorze
+  • wartość najczęściej występująca w zbiorze\
+  Przykładowy wynik wywołania:
+  ![grafika](https://github.com/Kuchtek/Algorytmy-i-eksploracja-danych/blob/main/%5BAED%5DLab1/analysis_dataset.png)
